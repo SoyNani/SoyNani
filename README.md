@@ -9,8 +9,8 @@ In my networks I share my experience, tips and resources for more people to join
 
 🚀 About me
 
-- 🌱 I'm currently learning **AWS**, **Augmented Reality**, **Animation** and **Angular**.
-- 💬 Ask me about **JavaScript, TypeScript, React, frontend development and engaging interface design**.
+- 🌱 I'm currently learning **AWS**, **DevOps** and **Integraciones con JAVA**.
+- 💬 Ask me about **JavaScript, React, Next.js, frontend development and engaging interface design**.
 - 📫 How to contact **soyynanii@gmail.com**
 - ⚡ Fun fact: **Besides programming, I'm passionate about design**.
 
