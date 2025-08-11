@@ -7,15 +7,21 @@ I'm a Girl in Tech 👩🏽‍💻 and I love teaching about software developmen
 In my networks I share my experience, tips and resources for more people to join this amazing world.
 
 
-🚀 About me
+## 🚀 About me
 
 - 🌱 I'm currently learning **AWS**, **DevOps** and **Integrations**.
 - 💬 Ask me about **JavaScript, React, Next.js, frontend development and engaging interface design**.
 - 📫 How to contact **soyynanii@gmail.com**
 - ⚡ Fun fact: **Besides programming, I'm passionate about design**.
 
+## 🎨 UI/UX Portfolio:
+🔗 **My designs in Figma**: [View prototypes](https://www.figma.com/design/ow4hm0KJSONGscauDP744l/Portafolio-UI-UX?node-id=95-392&t=LAuK6yz2hIRwJKEo-1)
 
-### My skills:
+## 📂 Featured projects
+📄 **ERP Migration Project**: [View documentation](https://drive.google.com/file/d/1pgFjDsjihTx0kpPGMb8JF1N404xVSaZE/view?usp=sharing)  
+📄 **Augmented Reality Project for Library System**: [View technical documentation (PDF)](https://drive.google.com/file/d/1JXd9QaJn6CQFIpwFeh7XkVnzOvHoZ5sD/view?usp=sharing)  
+
+## My skills:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -37,8 +43,6 @@ In my networks I share my experience, tips and resources for more people to join
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   <img src="https://img.icons8.com/color/48/azure-1.png" height="40" alt="azure devops logo" />
 </div>
-
-###
 
 
 <div align="center">
