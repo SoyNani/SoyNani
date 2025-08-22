@@ -17,8 +17,7 @@ In my networks I share my experience, tips and resources for more people to join
 ## 🎨 UI/UX Portfolio:
 🔗 **My designs in Figma**: [View prototypes](https://www.figma.com/design/ow4hm0KJSONGscauDP744l/Portafolio-UI-UX?node-id=95-392&t=LAuK6yz2hIRwJKEo-1)
 
-## 📂 Featured projects
-📄 **ERP Migration Project**: [View documentation](https://drive.google.com/file/d/1pgFjDsjihTx0kpPGMb8JF1N404xVSaZE/view?usp=sharing)  
+## 📂 Featured projects 
 📄 **Augmented Reality Project for Library System**: [View technical documentation (PDF)](https://drive.google.com/file/d/1JXd9QaJn6CQFIpwFeh7XkVnzOvHoZ5sD/view?usp=sharing)  
 
 ## My skills:
